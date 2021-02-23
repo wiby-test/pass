@@ -12,6 +12,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "wiby": "*"
+    "wiby": "pkgjs/wiby#e603bf4a05de25b6bc888d30e05364e94c6b0bfe"
   }
 }
